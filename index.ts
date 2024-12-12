@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
   button.addEventListener("click", function () {
     const heading = document.querySelector("#testiotsikko");
     if (!heading) return;
-    heading.textContent = "joko joko joo joo";
+    heading.textContent = "joko joko joo joo antaa tulla vaan";
   });
 
   // Initialize Splide
